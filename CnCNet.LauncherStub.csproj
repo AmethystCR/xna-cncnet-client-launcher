@@ -5,12 +5,12 @@
     <OutputType>WinExe</OutputType>
     <UseWPF>true</UseWPF>
     <Title>CnCNet Launcher</Title>
-    <Description>Launcher for CnCNet Client</Description>
+    <Description>Launcher for LLS Client</Description>
     <Company>CnCNet</Company>
-    <Product>CnCNet Client Launcher</Product>
+    <Product>LLS Client Launcher</Product>
     <Copyright>Copyright © CnCNet, Rampastring 2011-2024</Copyright>
     <Trademark></Trademark>
-    <AssemblyName>CnCNet.LauncherStub</AssemblyName>
+    <AssemblyName>LLSClientLauncher</AssemblyName>
     <RootNamespace>CnCNet.LauncherStub</RootNamespace>
     <ComVisible>false</ComVisible>
     <CLSCompliant>false</CLSCompliant>
@@ -21,6 +21,9 @@
     <ApplicationIcon>mainclienticon.ico</ApplicationIcon>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyVersion>2.0.11</AssemblyVersion>
+    <FileVersion>2.0.11</FileVersion>
+    <Version>2.0.11</Version>
   </PropertyGroup>
 
   <ItemGroup>
